@@ -10,3 +10,8 @@ File Link : http://www-personal.umich.edu/~mejn/netdata/polblogs.zip
 ![image](https://user-images.githubusercontent.com/93217093/163453304-fd06ed48-1fd7-46df-afea-615509011c2c.png)
 ![image](https://user-images.githubusercontent.com/93217093/163455108-9907429d-1e7c-4e89-9ba0-cd647e89bcf9.png)
 
+
+Connected components report:
+![image](https://user-images.githubusercontent.com/93217093/163599702-980dc59d-ed42-410d-86e3-fbd1ca68907c.png)
+
+
