@@ -3,6 +3,8 @@
 This repository contain Social network analysis about political blogs in 2004 US Election.
 We have applied multiple filters on the dataset through which we have found out multiple information like Number of communities that exist are 278, some communities have a strong relationship with each other, Node ID number 855(label = blogsforbush.com) is the most important entity as it has highest degree etc.
 
+File Link : http://www-personal.umich.edu/~mejn/netdata/polblogs.zip
+
 ![image](https://user-images.githubusercontent.com/93217093/163454824-2bcf77bb-2388-4ca3-8a0d-1c5b927f03d2.png)
 
 ![image](https://user-images.githubusercontent.com/93217093/163453304-fd06ed48-1fd7-46df-afea-615509011c2c.png)
