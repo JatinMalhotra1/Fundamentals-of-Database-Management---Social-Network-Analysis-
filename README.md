@@ -1,7 +1,9 @@
 # Fundamentals-of-Database-Management---Social-Network-Analysis-
 
 This repository contain Social network analysis about political blogs in 2004 US Election.
-We have applied multiple filters on the dataset through which we have found out multiple information like Number of communities that exist are 278, some communities have a strong relationship with each other, Node ID number 855(label = blogsforbush.com) is the most important entity as it has highest degree etc.
+We have applied multiple filters on the dataset through which we have found out multiple information like Number of communities that exist are 278, top 2 communities have a strong relationship with each other, Node ID number 855(label = blogsforbush.com) is the most important entity as it has highest degree etc.
+
+Avg. path Length: 3.39
 
 File Link : http://www-personal.umich.edu/~mejn/netdata/polblogs.zip
 
@@ -13,5 +15,10 @@ File Link : http://www-personal.umich.edu/~mejn/netdata/polblogs.zip
 
 Connected components report:
 ![image](https://user-images.githubusercontent.com/93217093/163599702-980dc59d-ed42-410d-86e3-fbd1ca68907c.png)
+
+
+Eigen Vector Centrality: 
+![image](https://user-images.githubusercontent.com/93217093/163600142-f7b1f007-96e9-4915-9b8f-fc6bd5cdb17d.png)
+
 
 
