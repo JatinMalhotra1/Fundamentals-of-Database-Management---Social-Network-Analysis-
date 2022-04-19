@@ -17,8 +17,9 @@ Connected components report:
 ![image](https://user-images.githubusercontent.com/93217093/163599702-980dc59d-ed42-410d-86e3-fbd1ca68907c.png)
 
 
-Eigen Vector Centrality: 
-![image](https://user-images.githubusercontent.com/93217093/163600142-f7b1f007-96e9-4915-9b8f-fc6bd5cdb17d.png)
+Page Rank:
+![image](https://user-images.githubusercontent.com/93217093/163925863-0691231e-523c-4dbb-930a-4ca238464eb4.png)
+
 
 
 
